@@ -26,3 +26,5 @@ including at low brightness.
 | Tested on | Android 16 GSI (phh-treble) |
 
 Flash via APatch / KernelSU / Magisk and reboot.
+
+**[Download latest release](https://github.com/sequencode/redmagic-10-pro-udfps-fix/releases/latest)**
