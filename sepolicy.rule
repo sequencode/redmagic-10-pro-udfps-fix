@@ -1,0 +1,2 @@
+allow tee unlabeled dir { search open read }
+allow tee unlabeled file { open read getattr }

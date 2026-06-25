@@ -1,0 +1,6 @@
+id=redmagic10pro_udfps_fix
+name=RedMagic 10 Pro GSI UDFPS Fix
+version=v1.0
+versionCode=1
+author=SEQUENCODE
+description=Makes the Goodix optical under-display fingerprint sensor work on Android 16 GSIs. Enables the native capture trigger (virtual_sensors_are_real) and runs a daemon for the ZTE wake-capture handshake, a local brightness overlay during scanning, and Panel HBM — with guards against stuck states and flash on finger contact. Supports enroll and unlock including at low brightness.
